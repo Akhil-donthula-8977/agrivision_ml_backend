@@ -1,4 +1,4 @@
-Flask
-flask-cors
-pandas
-joblib
+Flask==2.1.1
+joblib==1.2.0
+pandas==2.0.1
+flask-cors==3.1.1
