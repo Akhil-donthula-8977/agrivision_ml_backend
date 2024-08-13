@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+ENV/
+
+# Ignore large datasets
+datasets/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
